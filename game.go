@@ -12,7 +12,7 @@ import (
 
 const (
 	DurationSec  = 240
-	AttackMaxSec = 24
+	AttackMaxSec = 3
 )
 
 type Game struct {
